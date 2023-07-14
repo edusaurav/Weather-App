@@ -9,4 +9,4 @@
 # 8. Update the HTML content dynamically with the retrieved weather information, displaying it within the container div.
 # 9. Implement error handling to display a message if the API request fails or if the user enters an invalid location.
 # 10. Style the weather information using CSS, formatting the text and adding appropriate icons or images to represent the weather conditions.
-# 11. Add additional features like displaying the current date and time, a forecast for upcoming days, or a background image that changes based on the weather conditions.
+ 11. Add additional features like displaying the current date and time, a forecast for upcoming days, or a background image that changes based on the weather conditions.
